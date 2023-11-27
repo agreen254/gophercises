@@ -7,7 +7,7 @@
 *.dll
 *.so
 *.dylib
-quiz-game/quiz-game
+quiz-game/my-implementation/quiz-game
 
 # Test binary, built with `go test -c`
 *.test
